@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Tyler, Caleb, Jared"
 format: html
 editor: visual
 embed-resources: true
