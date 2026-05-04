@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Jared Moy, Tyler Chung, Caleb Huang
 format: html
 editor: visual
 embed-resources: true
